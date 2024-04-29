@@ -1,2 +1,2 @@
-local changes by laptop
+local as well as remote changes by laptop and host
 a
